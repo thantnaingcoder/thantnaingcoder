@@ -20,22 +20,22 @@ Here are some ideas to get you started:
 ## My Projects
 
 ### [shopping-app (react)](https://shopping-card-theta-inky.vercel.app/)
-- **Description**: Brief description of what the project does.
+- **Description**: shopping card ui , addto card and responsive view.
 - **Technologies**: react tailwildcss
 - ![Project Screenshot](https://res.cloudinary.com/doa84txts/image/upload/v1730537235/Screenshot_2024-11-02_151418_fg4nxo.png) 
 
 ### [hostipal-booking (react)](https://react-project-no-2.vercel.app/)
-- **Description**: Brief description of what the project does.
+- **Description**: Hospital booking app ui and responsive view.
 - **Technologies**: react tailwildcss shadcnui
 - ![Project Screenshot](https://res.cloudinary.com/doa84txts/image/upload/v1730537259/Screenshot_2024-11-02_151515_cfgriu.png) 
 
 ### [shop-app (react-native)](https://expo.dev/artifacts/eas/fNGKnjNzGSVqars3bu6z7n.apk)
-- **Description**: Brief description of what the project does.
+- **Description**: Shop app with react-native for mobile and addtocard and sample ui . 
 - **Technologies**: react-native tailwildcss 
 - ![Project Screenshot](https://res.cloudinary.com/doa84txts/image/upload/w_400,h_800/v1730537548/Screenshot_2024-11-02-15-20-52-779_com.david2024.mytailwind_mmwdsv.jpg) 
 
 ### [blogs-app (react-shadcn-typescript + nodejs-express)]()
-- **Description**: Brief description of what the project does.
-- **Technologies**: react shadcnui tailwildcss 
+- **Description**: Blogs site with react-typescript and backend nodejs-express-prisma . login/logout  , register user, darkmode ,lightmmode,responsive,create blogs and search blogs.
+- **Technologies**: react shadcnui tailwildcss nodejs express prisma cloudinary
 - ![Project Screenshot](https://res.cloudinary.com/doa84txts/image/upload/v1730537951/Screenshot_2024-11-02_152836_y569wp.png) 
 
