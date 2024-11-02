@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 ### [shop-app (react-native)](https://expo.dev/artifacts/eas/fNGKnjNzGSVqars3bu6z7n.apk)
 - **Description**: Brief description of what the project does.
 - **Technologies**: react-native tailwildcss 
-- ![Project Screenshot](https://res.cloudinary.com/doa84txts/image/upload/v1730537548/Screenshot_2024-11-02-15-20-52-779_com.david2024.mytailwind_mmwdsv.jpg) 
+- ![Project Screenshot](https://res.cloudinary.com/doa84txts/image/upload/w_400,h_800/v1730537548/Screenshot_2024-11-02-15-20-52-779_com.david2024.mytailwind_mmwdsv.jpg) 
 
 ### [blogs-app (react-shadcn + nodejs-express)]()
 - **Description**: Brief description of what the project does.
 - **Technologies**: react-native tailwildcss 
-- ![Project Screenshot](https://res.cloudinary.com/doa84txts/image/upload/w_400,h_900v1730537951/Screenshot_2024-11-02_152836_y569wp.png) 
+- ![Project Screenshot](https://res.cloudinary.com/doa84txts/image/upload/v1730537951/Screenshot_2024-11-02_152836_y569wp.png) 
 
