@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### [shopping-app (react)](https://shopping-card-theta-inky.vercel.app/)
 - **Description**: Brief description of what the project does.
 - **Technologies**: react tailwildcss
-- ![Project Screenshot](https://res.cloudinary.com/doa84txts/image/upload/w_600,h_300/v1730537235/Screenshot_2024-11-02_151418_fg4nxo.png) (optional)
+- ![Project Screenshot](https://res.cloudinary.com/doa84txts/image/upload/w_800,h_300/v1730537235/Screenshot_2024-11-02_151418_fg4nxo.png) (optional)
 
 ### [hostipal-booking (react)](https://react-project-no-2.vercel.app/)
 - **Description**: Brief description of what the project does.
