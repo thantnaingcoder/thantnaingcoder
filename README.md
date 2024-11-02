@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## My Projects
+
+### [Project 1 Name](https://github.com/your-username/project-1)
+- **Description**: Brief description of what the project does.
+- **Technologies**: List the main technologies used.
+- ![Project Screenshot](link-to-screenshot.png) (optional)
+
+### [Project 2 Name](https://github.com/your-username/project-2)
+- **Description**: Brief description of what the project does.
+- **Technologies**: List the main technologies used.
+
