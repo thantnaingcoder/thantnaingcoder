@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 ### [shop-app (react-native)](https://expo.dev/artifacts/eas/fNGKnjNzGSVqars3bu6z7n.apk)
 - **Description**: Brief description of what the project does.
 - **Technologies**: react-native tailwildcss 
-- ![Project Screenshot](link-to-screenshot.png) (optional)
+- ![Project Screenshot](https://res.cloudinary.com/doa84txts/image/upload/v1730537548/Screenshot_2024-11-02-15-20-52-779_com.david2024.mytailwind_mmwdsv.jpg) (optional)
 
