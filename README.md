@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 
 ### [blogs-app (react-shadcn-typescript + nodejs-express)]()
 - **Description**: Brief description of what the project does.
-- **Technologies**: react-native tailwildcss 
+- **Technologies**: react shadcnui tailwildcss 
 - ![Project Screenshot](https://res.cloudinary.com/doa84txts/image/upload/v1730537951/Screenshot_2024-11-02_152836_y569wp.png) 
 
