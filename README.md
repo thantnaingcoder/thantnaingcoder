@@ -22,20 +22,20 @@ Here are some ideas to get you started:
 ### [shopping-app (react)](https://shopping-card-theta-inky.vercel.app/)
 - **Description**: Brief description of what the project does.
 - **Technologies**: react tailwildcss
-- ![Project Screenshot](https://res.cloudinary.com/doa84txts/image/upload/w_800,h_300/v1730537235/Screenshot_2024-11-02_151418_fg4nxo.png) (optional)
+- ![Project Screenshot](https://res.cloudinary.com/doa84txts/image/upload/v1730537235/Screenshot_2024-11-02_151418_fg4nxo.png) 
 
 ### [hostipal-booking (react)](https://react-project-no-2.vercel.app/)
 - **Description**: Brief description of what the project does.
 - **Technologies**: react tailwildcss shadcnui
-- ![Project Screenshot](https://res.cloudinary.com/doa84txts/image/upload/v1730537259/Screenshot_2024-11-02_151515_cfgriu.png) (optional)
+- ![Project Screenshot](https://res.cloudinary.com/doa84txts/image/upload/v1730537259/Screenshot_2024-11-02_151515_cfgriu.png) 
 
 ### [shop-app (react-native)](https://expo.dev/artifacts/eas/fNGKnjNzGSVqars3bu6z7n.apk)
 - **Description**: Brief description of what the project does.
 - **Technologies**: react-native tailwildcss 
-- ![Project Screenshot](https://res.cloudinary.com/doa84txts/image/upload/v1730537548/Screenshot_2024-11-02-15-20-52-779_com.david2024.mytailwind_mmwdsv.jpg) (optional)
+- ![Project Screenshot](https://res.cloudinary.com/doa84txts/image/upload/v1730537548/Screenshot_2024-11-02-15-20-52-779_com.david2024.mytailwind_mmwdsv.jpg) 
 
 ### [blogs-app (react-shadcn + nodejs-express)]()
 - **Description**: Brief description of what the project does.
 - **Technologies**: react-native tailwildcss 
-- ![Project Screenshot](https://res.cloudinary.com/doa84txts/image/upload/v1730537951/Screenshot_2024-11-02_152836_y569wp.png) (optional)
+- ![Project Screenshot](https://res.cloudinary.com/doa84txts/image/upload/w_400,h_900v1730537951/Screenshot_2024-11-02_152836_y569wp.png) 
 
