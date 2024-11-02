@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 
 ## My Projects
 
-### [shopping-app (react)](https://shopping-card-theta-inky.vercel.app/)
+### [shopping-app (react website)](https://shopping-card-theta-inky.vercel.app/)
 - **Description**: shopping card ui , addto card and responsive view.
 - **Technologies**: react tailwildcss
 - ![Project Screenshot](https://res.cloudinary.com/doa84txts/image/upload/v1730537235/Screenshot_2024-11-02_151418_fg4nxo.png) 
 
-### [hostipal-booking (react)](https://react-project-no-2.vercel.app/)
+### [hostipal-booking (react website)](https://react-project-no-2.vercel.app/)
 - **Description**: Hospital booking app ui and responsive view.
 - **Technologies**: react tailwildcss shadcnui
 - ![Project Screenshot](https://res.cloudinary.com/doa84txts/image/upload/v1730537259/Screenshot_2024-11-02_151515_cfgriu.png) 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - **Technologies**: react-native tailwildcss 
 - ![Project Screenshot](https://res.cloudinary.com/doa84txts/image/upload/w_400,h_800/v1730537548/Screenshot_2024-11-02-15-20-52-779_com.david2024.mytailwind_mmwdsv.jpg) 
 
-### [blogs-app (react-shadcn-typescript + nodejs-express)]()
+### [blogs-app (react-shadcn-typescript + nodejs-express website)]()
 - **Description**: Blogs site with react-typescript and backend nodejs-express-prisma . login/logout  , register user, darkmode ,lightmmode,responsive,create blogs and search blogs.
 - **Technologies**: react shadcnui tailwildcss nodejs express prisma cloudinary
 - ![Project Screenshot](https://res.cloudinary.com/doa84txts/image/upload/v1730537951/Screenshot_2024-11-02_152836_y569wp.png) 
