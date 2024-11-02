@@ -28,3 +28,8 @@ Here are some ideas to get you started:
 - **Technologies**: react tailwildcss shadcnui
 - ![Project Screenshot](link-to-screenshot.png) (optional)
 
+- ### [shop-app (react-native)](https://expo.dev/artifacts/eas/fNGKnjNzGSVqars3bu6z7n.apk)
+- **Description**: Brief description of what the project does.
+- **Technologies**: react-native tailwildcss 
+- ![Project Screenshot](link-to-screenshot.png) (optional)
+
