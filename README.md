@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## My Projects
 
-### [Project 1 Name]([https://github.com/your-username/project-1](https://shopping-card-theta-inky.vercel.app/))
+### [shopping](https://shopping-card-theta-inky.vercel.app/)
 - **Description**: Brief description of what the project does.
 - **Technologies**: List the main technologies used.
 - ![Project Screenshot](link-to-screenshot.png) (optional)
