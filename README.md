@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 
 ## My Projects
 
-### [shopping-app](https://shopping-card-theta-inky.vercel.app/)
+### [shopping-app (react)](https://shopping-card-theta-inky.vercel.app/)
 - **Description**: Brief description of what the project does.
 - **Technologies**: List the main technologies used.
 - ![Project Screenshot](link-to-screenshot.png) (optional)
 
-### [hostipal-booking](https://react-project-no-2.vercel.app/)
+### [hostipal-booking (react)](https://react-project-no-2.vercel.app/)
 - **Description**: Brief description of what the project does.
 - **Technologies**: List the main technologies used.
 
