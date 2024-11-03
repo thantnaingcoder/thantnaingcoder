@@ -1,8 +1,7 @@
-
-<div  align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" height="300" />
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" height="300" />
   
-  <h1>👋 Welcome to [Your Name]'s Dev Universe 🌟</h1>
+  <h1>👋 Welcome to [Your Name]'s Code Playground 🚀</h1>
   
   <p>
     <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
@@ -12,17 +11,16 @@
 </div>
 
 <div align="center">
-  <h2>🚀 Full-Stack Developer | Mobile App Enthusiast | Database Wizard</h2>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Mastering+the+MERN+Stack;Building+Responsive+Web+Apps;Crafting+Mobile+Experiences;Always+Learning+New+Tech&font=Fira%20Code&center=true&width=380&height=50">
+  <h2>🛠️ Full-Stack Maestro | Mobile App Architect | Database Virtuoso</h2>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Crafting+Web+and+Mobile+Experiences;Building+with+MERN+Stack;Optimizing+Databases;Always+Exploring+New+Tech&font=Fira%20Code&center=true&width=380&height=50">
 </div>
 
 <p align="center">
-  Hey there! I'm [Your Name], a passionate full-stack developer with a love for creating seamless web and mobile experiences. From pixel-perfect frontends to robust backends, I enjoy tackling challenges across the entire development spectrum. My mission? To build applications that not only work flawlessly but also delight users at every interaction.
+  Hello, fellow code enthusiasts! I'm [Your Name], a passionate full-stack developer with a knack for creating seamless digital experiences. From responsive web apps to intuitive mobile interfaces, I thrive on turning complex problems into elegant solutions. My goal? To build software that not only meets requirements but exceeds expectations and brings joy to users.
 </p>
 
 <div align="center">
-  <h2>🛠️ Tech Stack</h2>
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" />
+  <h2>💻 Tech Arsenal</h2>
 </div>
 
 <p align="center">
@@ -45,80 +43,77 @@
   <h2>🌟 Featured Projects</h2>
 </div>
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      <h3 align="center">E-Commerce </h3>
-      <div align="center">  
-        <a href="https://shopping-card-theta-inky.vercel.app/" target="_blank">
-          <img src="https://res.cloudinary.com/doa84txts/image/upload/v1730537235/Screenshot_2024-11-02_151418_fg4nxo.png" width="300" alt="E-Commerce Platform" />
-        </a>
-        <p><strong> e-commerce project ,addto card and respinsive.</strong></p>
-        <p><strong>Tech Stack:</strong> React, Tailwind CSS</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Hospital booking</h3>
-      <div align="center">
-        <a href="https://react-project-no-2.vercel.app/" target="_blank">
-          <img src="https://res.cloudinary.com/doa84txts/image/upload/v1730537259/Screenshot_2024-11-02_151515_cfgriu.png" width="300" alt="Hostipal bppking App" />
-        </a>
-        <p><strong>Hostipal booking project , responsive</strong></p>
-        <p><strong>Tech Stack:</strong> React ,shadcn ui , tailwildcss</p>
-      </div>
-    </td>
-  </tr>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <div style="width: 45%; min-width: 300px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
+    <h3 align="center">E-Commerce Platform</h3>
+    <img src="https://via.placeholder.com/400x200?text=E-Commerce+Platform" style="width: 100%; border-radius: 6px;" alt="E-Commerce Platform" />
+    <p><strong>A full-stack e-commerce solution with real-time inventory management.</strong></p>
+    <p><strong>Tech Stack:</strong> React, Node.js, Express, Prisma, PostgreSQL, Tailwind CSS</p>
+    <div align="center">
+      <a href="https://github.com/yourusername/ecommerce-platform" target="_blank">
+        <img src="https://img.shields.io/badge/-View_Project-181717?style=for-the-badge&logo=github" alt="View Project" />
+      </a>
+    </div>
+  </div>
 
-  
+  <div style="width: 45%; min-width: 300px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
+    <h3 align="center">Fitness Tracker App</h3>
+    <img src="https://via.placeholder.com/400x200?text=Fitness+Tracker+App" style="width: 100%; border-radius: 6px;" alt="Fitness Tracker App" />
+    <p><strong>A cross-platform mobile app for tracking workouts and nutrition.</strong></p>
+    <p><strong>Tech Stack:</strong> React Native, TypeScript, Node.js, Express, MySQL</p>
+    <div align="center">
+      <a href="https://github.com/yourusername/fitness-tracker-app" target="_blank">
+        <img src="https://img.shields.io/badge/-View_Project-181717?style=for-the-badge&logo=github" alt="View Project" />
+      </a>
+    </div>
+  </div>
 
-   <tr>
-    <td width="50%">
-      <h3 align="center">Shopping app </h3>
-      <div align="center">  
-        <a href="https://expo.dev/artifacts/eas/fNGKnjNzGSVqars3bu6z7n.apk" target="_blank">
-          <img src="https://res.cloudinary.com/doa84txts/image/upload/v1730626079/Screenshot_2024-11-03_155355_hxtw6e.png" width="300" alt="E-Commerce Platform" />
-        </a>
-        <p><strong>Shopping app with react-native</strong></p>
-        <p><strong>Tech Stack:</strong> React-native , Tailwind CSS</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Blogs app</h3>
-      <div align="center">
-        <a href="#" target="_blank">
-          <img src="https://res.cloudinary.com/doa84txts/image/upload/v1730537951/Screenshot_2024-11-02_152836_y569wp.png" width="300" hight="400" alt="Fitness Tracker App" />
-        </a>
-        <p><strong> Blogs site with react-typescript and backend nodejs-express-prisma . login/logout  , register user, darkmode ,lightmmode,responsive,create blogs and search blogs.</strong></p>
-        <p><strong>Tech Stack:</strong> react shadcnui tailwildcss nodejs express prisma cloudinary</p>
-      </div>
-    </td>
-  </tr>
+  <div style="width: 45%; min-width: 300px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
+    <h3 align="center">Blog CMS</h3>
+    <img src="https://via.placeholder.com/400x200?text=Blog+CMS" style="width: 100%; border-radius: 6px;" alt="Blog CMS" />
+    <p><strong>A modern, SEO-friendly blog content management system.</strong></p>
+    <p><strong>Tech Stack:</strong> Next.js, TypeScript, Tailwind CSS, Prisma, PostgreSQL</p>
+    <div align="center">
+      <a href="https://github.com/yourusername/blog-cms" target="_blank">
+        <img src="https://img.shields.io/badge/-View_Project-181717?style=for-the-badge&logo=github" alt="View Project" />
+      </a>
+    </div>
+  </div>
 
-
-  
-
-</table>
+  <div style="width: 45%; min-width: 300px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
+    <h3 align="center">Task Management Dashboard</h3>
+    <img src="https://via.placeholder.com/400x200?text=Task+Management+Dashboard" style="width: 100%; border-radius: 6px;" alt="Task Management Dashboard" />
+    <p><strong>A real-time collaborative task management tool for teams.</strong></p>
+    <p><strong>Tech Stack:</strong> React, Node.js, Express, Socket.io, MySQL</p>
+    <div align="center">
+      <a href="https://github.com/yourusername/task-dashboard" target="_blank">
+        <img src="https://img.shields.io/badge/-View_Project-181717?style=for-the-badge&logo=github" alt="View Project" />
+      </a>
+    </div>
+  </div>
+</div>
 
 <div align="center">
-  <h2>📊 GitHub Stats</h2>
+  <h2>📊 GitHub Analytics</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <h2>💡 A Little More About Me</h2>
+  <h2>🌱 Always Growing</h2>
   <p>
-    🌱 I'm currently learning GraphQL and exploring serverless architectures<br>
-    👯 I'm looking to collaborate on open-source React and Node.js projects<br>
+    🔭 I'm currently working on a serverless architecture project<br>
+    🌟 Exploring GraphQL and Apollo for efficient data fetching<br>
+    👯 Looking to collaborate on open-source React and Node.js projects<br>
     💬 Ask me about full-stack development, mobile app design, or database optimization<br>
-    ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
+    ⚡ Fun fact: I can type over 100 words per minute!
   </p>
 </div>
 
 <div align="center">
-  <h2>🤝 Let's Connect!</h2>
+  <h2>🤝 Let's Connect and Create!</h2>
   <p>
-    I'm always excited to meet fellow developers, collaborate on interesting projects, or just chat about the latest in tech. Feel free to reach out!
+    Whether you're looking to collaborate on a project, discuss the latest tech trends, or just chat about the art of coding, I'm always eager to connect with fellow developers and tech enthusiasts!
   </p>
   <p>
     <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
@@ -133,9 +128,8 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" />
-  <p>"First, solve the problem. Then, write the code." - John Johnson</p>
+  <p>"The only way to do great work is to love what you do." - Steve Jobs</p>
 </div>
-
 
 ## My Projects
 
