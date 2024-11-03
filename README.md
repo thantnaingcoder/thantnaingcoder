@@ -68,7 +68,7 @@
     </div>
   </div>
 
-  <div style="width: 45%; min-width: 300px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
+  <div style="width: 45%; min-width: 300px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 16px; margin="auto">
     <h3 align="center">Mobile Shopping app</h3>
     <img src="https://res.cloudinary.com/doa84txts/image/upload/w_400,h_800/v1730626079/Screenshot_2024-11-03_155355_hxtw6e.png" style="width: 50%; border-radius: 6px;" alt="Blog CMS" />
     <p><strong>A modern, SEO-friendly blog content management system.</strong></p>
