@@ -69,6 +69,29 @@
     </td>
   </tr>
 
+   <tr>
+    <td width="50%">
+      <h3 align="center">E-Commerce </h3>
+      <div align="center">  
+        <a href="https://shopping-card-theta-inky.vercel.app/" target="_blank">
+          <img src="https://res.cloudinary.com/doa84txts/image/upload/v1730537235/Screenshot_2024-11-02_151418_fg4nxo.png" width="300" alt="E-Commerce Platform" />
+        </a>
+        <p><strong>A full-stack e-commerce solution with real-time inventory management.</strong></p>
+        <p><strong>Tech Stack:</strong> React, Node.js, Express, Prisma, PostgreSQL, Tailwind CSS</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Fitness Tracker App</h3>
+      <div align="center">
+        <a href="https://github.com/yourusername/fitness-tracker-app" target="_blank">
+          <img src="https://via.placeholder.com/300x200?text=Fitness+Tracker+App" width="300" alt="Fitness Tracker App" />
+        </a>
+        <p><strong>A cross-platform mobile app for tracking workouts and nutrition.</strong></p>
+        <p><strong>Tech Stack:</strong> React Native, TypeScript, Node.js, Express, MySQL</p>
+      </div>
+    </td>
+  </tr>
+
 
   
 
