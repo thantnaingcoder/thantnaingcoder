@@ -84,7 +84,7 @@
       <h3 align="center">Fitness Tracker App</h3>
       <div align="center">
         <a href="https://github.com/yourusername/fitness-tracker-app" target="_blank">
-          <img src="https://via.placeholder.com/300x200?text=Fitness+Tracker+App" width="300" alt="Fitness Tracker App" />
+          <img src="https://via.placeholder.com/300x200?text=Fitness+Tracker+App" width="300" height="600" alt="Fitness Tracker App" />
         </a>
         <p><strong>A cross-platform mobile app for tracking workouts and nutrition.</strong></p>
         <p><strong>Tech Stack:</strong> React Native, TypeScript, Node.js, Express, MySQL</p>
