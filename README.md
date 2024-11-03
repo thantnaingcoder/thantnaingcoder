@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" height="300" />
   
-  <h1>👋 Welcome to [Your Name]'s Code Playground 🚀</h1>
+  <h1>👋 Welcome to Thant Naing's Code Playground 🚀</h1>
   
   <p>
     <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
@@ -131,25 +131,6 @@
   <p>"The only way to do great work is to love what you do." - Steve Jobs</p>
 </div>
 
-## My Projects
 
-### [shopping-app (react website)](https://shopping-card-theta-inky.vercel.app/)
-- **Description**: shopping card ui , addto card and responsive view.
-- **Technologies**: react tailwildcss
-- ![Project Screenshot](https://res.cloudinary.com/doa84txts/image/upload/v1730537235/Screenshot_2024-11-02_151418_fg4nxo.png) 
 
-### [hostipal-booking (react website)](https://react-project-no-2.vercel.app/)
-- **Description**: Hospital booking app ui and responsive view.
-- **Technologies**: react tailwildcss shadcnui
-- ![Project Screenshot](https://res.cloudinary.com/doa84txts/image/upload/v1730537259/Screenshot_2024-11-02_151515_cfgriu.png) 
-
-### [shop-app (react-native mobile apk)](https://expo.dev/artifacts/eas/fNGKnjNzGSVqars3bu6z7n.apk)
-- **Description**: Shop app with react-native for mobile and addtocard and sample ui . 
-- **Technologies**: react-native tailwildcss expo-cliw
-- ![Project Screenshot](https://res.cloudinary.com/doa84txts/image/upload/w_400,h_800/v1730626079/Screenshot_2024-11-03_155355_hxtw6e.png) 
-
-### [blogs-app (react-shadcn-typescript + nodejs-express website)]()
-- **Description**: Blogs site with react-typescript and backend nodejs-express-prisma . login/logout  , register user, darkmode ,lightmmode,responsive,create blogs and search blogs.
-- **Technologies**: react shadcnui tailwildcss nodejs express prisma cloudinary
-- ![Project Screenshot](https://res.cloudinary.com/doa84txts/image/upload/v1730537951/Screenshot_2024-11-02_152836_y569wp.png) 
 
