@@ -88,9 +88,9 @@
     <img src="https://res.cloudinary.com/doa84txts/image/upload/w_400,h_800/v1730626079/Screenshot_2024-11-03_155355_hxtw6e.png" style="width: 50%; border-radius: 6px;" alt="Blog CMS" />
     <p><strong>Mobile shopping app with react native ,addtocard,delecard ,subtotal</strong></p>
     <p><strong>Tech Stack:</strong> React-native ,tailwild</p>
-    <strong>Demo apk (android):  <a href="https://expo.dev/artifacts/eas/o55c8qmFXQ4Xp5kQuc3HU.apk"  > https://expo.dev/artifacts/eas/o55c8qmFXQ4Xp5kQuc3HU.apk </a></strong> 
+    <strong>Demo apk (android):  <a href="https://expo.dev/artifacts/eas/fNGKnjNzGSVqars3bu6z7n.apk"  > https://expo.dev/artifacts/eas/fNGKnjNzGSVqars3bu6z7n.apk </a></strong> 
     <div align="center">
-      <a href="https://expo.dev/artifacts/eas/o55c8qmFXQ4Xp5kQuc3HU.apk" target="_blank" >
+      <a href="https://expo.dev/artifacts/eas/fNGKnjNzGSVqars3bu6z7n.apk" target="_blank" >
         <img src="https://img.shields.io/badge/-View_Project-181717?style=for-the-badge&logo=link" alt="Download apk" />
       </a>
     </div>
