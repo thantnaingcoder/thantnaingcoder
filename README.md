@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 ### [shop-app (react-native mobile apk)](https://expo.dev/artifacts/eas/fNGKnjNzGSVqars3bu6z7n.apk)
 - **Description**: Shop app with react-native for mobile and addtocard and sample ui . 
-- **Technologies**: react-native tailwildcss expo-cli
-- ![Project Screenshot](https://res.cloudinary.com/doa84txts/image/upload/w_400,h_800/v1730537548/Screenshot_2024-11-02-15-20-52-779_com.david2024.mytailwind_mmwdsv.jpg) 
+- **Technologies**: react-native tailwildcss expo-cliw
+- ![Project Screenshot](https://res.cloudinary.com/doa84txts/image/upload/_400,h_800/v1730626079/Screenshot_2024-11-03_155355_hxtw6e.png) 
 
 ### [blogs-app (react-shadcn-typescript + nodejs-express website)]()
 - **Description**: Blogs site with react-typescript and backend nodejs-express-prisma . login/logout  , register user, darkmode ,lightmmode,responsive,create blogs and search blogs.
