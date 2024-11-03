@@ -47,8 +47,8 @@
   <div style="width: 45%; min-width: 300px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
     <h3 align="center">E-Commerce app</h3>
     <img src="https://res.cloudinary.com/doa84txts/image/upload/v1730537235/Screenshot_2024-11-02_151418_fg4nxo.png" style="width: 100%; border-radius: 6px;" alt="E-Commerce Platform" />
-    <p><strong>A full-stack e-commerce solution with real-time inventory management.</strong></p>
-    <p><strong>Tech Stack:</strong> React, Node.js, Express, Prisma, PostgreSQL, Tailwind CSS</p>
+    <p><strong> E-commerce app with simple ui and responseve , addtocard ,dele card ,sub total </strong></p>
+    <p><strong>Tech Stack:</strong> React,  Tailwind CSS</p>
     <div align="center">
       <a href="https://shopping-card-theta-inky.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/-View_Project-181717?style=for-the-badge&logo=github" alt="Demo Project" />
@@ -59,8 +59,8 @@
   <div style="width: 45%; min-width: 300px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
     <h3 align="center">Hostipal booking app</h3>
     <img src="https://res.cloudinary.com/doa84txts/image/upload/v1730537259/Screenshot_2024-11-02_151515_cfgriu.png" style="width: 100%; border-radius: 6px;" alt="Fitness Tracker App" />
-    <p><strong>A cross-platform mobile app for tracking workouts and nutrition.</strong></p>
-    <p><strong>Tech Stack:</strong> React Native, TypeScript, Node.js, Express, MySQL</p>
+    <p><strong>hostipal booking app with sample ui , responsive and slider.</strong></p>
+    <p><strong>Tech Stack:</strong> React ,shadcn ,tailwild</p>
     <div align="center">
       <a href="https://react-project-no-2.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/-View_Project-181717?style=for-the-badge&logo=github" alt="Demo Project" />
@@ -69,10 +69,10 @@
   </div>
 
    <div style="width: 45%; min-width: 300px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
-    <h3 align="center">Task Management Dashboard</h3>
+    <h3 align="center">Blogs app</h3>
     <img src="https://res.cloudinary.com/doa84txts/image/upload/v1730537951/Screenshot_2024-11-02_152836_y569wp.png" style="width: 100%; border-radius: 6px;" alt="Task Management Dashboard" />
-    <p><strong>A real-time collaborative task management tool for teams.</strong></p>
-    <p><strong>Tech Stack:</strong> React, Node.js, Express, Socket.io, MySQL</p>
+    <p><strong>Blogs create , search , pagination ,responsive.</strong></p>
+    <p><strong>Tech Stack:</strong> React, Node.js, Express, prisma</p>
     <div align="center">
       <a href="https://github.com/yourusername/task-dashboard" target="_blank">
         <img src="https://img.shields.io/badge/-View_Project-181717?style=for-the-badge&logo=github" alt="Demo Project" />
@@ -84,10 +84,10 @@
     <h3 align="center">Mobile Shopping app</h3>
     <img src="https://res.cloudinary.com/doa84txts/image/upload/w_400,h_800/v1730626079/Screenshot_2024-11-03_155355_hxtw6e.png" style="width: 50%; border-radius: 6px;" alt="Blog CMS" />
     <p><strong>A modern, SEO-friendly blog content management system.</strong></p>
-    <p><strong>Tech Stack:</strong> Next.js, TypeScript, Tailwind CSS, Prisma, PostgreSQL</p>
+    <p><strong>Tech Stack:</strong> React-native ,tailwild</p>
     <div align="center">
       <a href="https://expo.dev/artifacts/eas/o55c8qmFXQ4Xp5kQuc3HU.apk" target="_blank">
-        <img src="https://img.shields.io/badge/-View_Project-181717?style=for-the-badge&logo=github" alt="Download apk" />
+        <img src="https://img.shields.io/badge/-View_Project-181717?style=for-the-badge&logo=link" alt="Download apk" />
       </a>
     </div>
   </div>
