@@ -48,9 +48,9 @@
 <table align="center">
   <tr>
     <td width="50%">
-      <h3 align="center">E-Commerce Platform</h3>
+      <h3 align="center">E-Commerce </h3>
       <div align="center">  
-        <a href="https://github.com/yourusername/ecommerce-platform" target="_blank">
+        <a href="https://shopping-card-theta-inky.vercel.app/" target="_blank">
           <img src="https://res.cloudinary.com/doa84txts/image/upload/v1730537235/Screenshot_2024-11-02_151418_fg4nxo.png" width="300" alt="E-Commerce Platform" />
         </a>
         <p><strong>A full-stack e-commerce solution with real-time inventory management.</strong></p>
@@ -69,26 +69,21 @@
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">Blog CMS</h3>
-      <div align="center">
-        <a href="https://github.com/yourusername/blog-cms" target="_blank">
-          <img src="https://via.placeholder.com/300x200?text=Blog+CMS" width="300" alt="Blog CMS" />
-        </a>
-        <p><strong>A modern, SEO-friendly blog content management system.</strong></p>
-        <p><strong>Tech Stack:</strong> Next.js, TypeScript, Tailwind CSS, Prisma, PostgreSQL</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Task Management Dashboard</h3>
-      <div align="center">
-        <a href="https://github.com/yourusername/task-dashboard" target="_blank">
-          <img src="https://via.placeholder.com/300x200?text=Task+Management+Dashboard" width="300" alt="Task Management Dashboard" />
-        </a>
-        <p><strong>A real-time collaborative task management tool for teams.</strong></p>
-        <p><strong>Tech Stack:</strong> React, Node.js, Express, Socket.io, MySQL</p>
-      </div>
-    </td>
+  ### [shop-app (react-native mobile apk)](https://expo.dev/artifacts/eas/fNGKnjNzGSVqars3bu6z7n.apk)
+- **Description**: Shop app with react-native for mobile and addtocard and sample ui . 
+- **Technologies**: react-native tailwildcss expo-cliw
+- ![Project Screenshot](https://res.cloudinary.com/doa84txts/image/upload/w_400,h_800/v1730626079/Screenshot_2024-11-03_155355_hxtw6e.png) 
+
+
+
+ 
+  </tr>
+
+  <tr>
+    ### [blogs-app (react-shadcn-typescript + nodejs-express website)]()
+- **Description**: Blogs site with react-typescript and backend nodejs-express-prisma . login/logout  , register user, darkmode ,lightmmode,responsive,create blogs and search blogs.
+- **Technologies**: react shadcnui tailwildcss nodejs express prisma cloudinary
+- ![Project Screenshot](https://res.cloudinary.com/doa84txts/image/upload/v1730537951/Screenshot_2024-11-02_152836_y569wp.png) 
   </tr>
 </table>
 
