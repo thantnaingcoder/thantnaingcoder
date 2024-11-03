@@ -68,23 +68,10 @@
       </div>
     </td>
   </tr>
-  <tr>
-  ### [shop-app (react-native mobile apk)](https://expo.dev/artifacts/eas/fNGKnjNzGSVqars3bu6z7n.apk)
-- **Description**: Shop app with react-native for mobile and addtocard and sample ui . 
-- **Technologies**: react-native tailwildcss expo-cliw
-- ![Project Screenshot](https://res.cloudinary.com/doa84txts/image/upload/w_400,h_800/v1730626079/Screenshot_2024-11-03_155355_hxtw6e.png) 
 
 
+  
 
- 
-  </tr>
-
-  <tr>
-    ### [blogs-app (react-shadcn-typescript + nodejs-express website)]()
-- **Description**: Blogs site with react-typescript and backend nodejs-express-prisma . login/logout  , register user, darkmode ,lightmmode,responsive,create blogs and search blogs.
-- **Technologies**: react shadcnui tailwildcss nodejs express prisma cloudinary
-- ![Project Screenshot](https://res.cloudinary.com/doa84txts/image/upload/v1730537951/Screenshot_2024-11-02_152836_y569wp.png) 
-  </tr>
 </table>
 
 <div align="center">
