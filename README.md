@@ -74,7 +74,7 @@
       <h3 align="center">Shopping app </h3>
       <div align="center">  
         <a href="https://expo.dev/artifacts/eas/fNGKnjNzGSVqars3bu6z7n.apk" target="_blank">
-          <img src="https://res.cloudinary.com/doa84txts/image/upload/w_400,h_800/v1730626079/Screenshot_2024-11-03_155355_hxtw6e.png" width="300" alt="E-Commerce Platform" />
+          <img src="https://res.cloudinary.com/doa84txts/image/upload/v1730626079/Screenshot_2024-11-03_155355_hxtw6e.png" width="300" alt="E-Commerce Platform" />
         </a>
         <p><strong>Shopping app with react-native</strong></p>
         <p><strong>Tech Stack:</strong> React-native , Tailwind CSS</p>
