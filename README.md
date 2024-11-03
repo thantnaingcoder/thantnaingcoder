@@ -61,13 +61,15 @@
       <h3 align="center">Hospital booking</h3>
       <div align="center">
         <a href="https://react-project-no-2.vercel.app/" target="_blank">
-          <img src="https://res.cloudinary.com/doa84txts/image/upload/v1730537259/Screenshot_2024-11-02_151515_cfgriu.png" width="300" alt="Fitness Tracker App" />
+          <img src="https://res.cloudinary.com/doa84txts/image/upload/v1730537259/Screenshot_2024-11-02_151515_cfgriu.png" width="300" alt="Hostipal bppking App" />
         </a>
         <p><strong>Hostipal booking project , responsive</strong></p>
         <p><strong>Tech Stack:</strong> React ,shadcn ui , tailwildcss</p>
       </div>
     </td>
   </tr>
+
+  
 
    <tr>
     <td width="50%">
@@ -83,8 +85,8 @@
     <td width="50%">
       <h3 align="center">Blogs app</h3>
       <div align="center">
-        <a href="https://github.com/yourusername/fitness-tracker-app" target="_blank">
-          <img src="https://res.cloudinary.com/doa84txts/image/upload/v1730537951/Screenshot_2024-11-02_152836_y569wp.png" width="300" height="600" alt="Fitness Tracker App" />
+        <a href="#" target="_blank">
+          <img src="https://res.cloudinary.com/doa84txts/image/upload/v1730537951/Screenshot_2024-11-02_152836_y569wp.png" width="300" hight="400" alt="Fitness Tracker App" />
         </a>
         <p><strong> Blogs site with react-typescript and backend nodejs-express-prisma . login/logout  , register user, darkmode ,lightmmode,responsive,create blogs and search blogs.</strong></p>
         <p><strong>Tech Stack:</strong> react shadcnui tailwildcss nodejs express prisma cloudinary</p>
