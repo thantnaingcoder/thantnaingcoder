@@ -75,7 +75,7 @@
     <img src="https://res.cloudinary.com/doa84txts/image/upload/v1730537951/Screenshot_2024-11-02_152836_y569wp.png" style="width: 100%; border-radius: 6px;" alt="Task Management Dashboard" />
     <p><strong>Blogs create , search , pagination ,responsive.</strong></p>
     <p><strong>Tech Stack:</strong> React, Node.js, Express, prisma</p>
-     <p><strong>Demo project:</strong> <a href="#"> link </a></p>
+     <p><strong>Demo project:</strong> <a href="#"> progressing </a></p>
     <div align="center">
       <a href="https://github.com/yourusername/task-dashboard" target="_blank">
         <img src="https://img.shields.io/badge/-View_Project-181717?style=for-the-badge&logo=github" alt="Demo Project" />
