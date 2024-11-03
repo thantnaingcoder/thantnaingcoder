@@ -45,8 +45,8 @@
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <div style="width: 45%; min-width: 300px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
-    <h3 align="center">E-Commerce Platform</h3>
-    <img src="https://via.placeholder.com/400x200?text=E-Commerce+Platform" style="width: 100%; border-radius: 6px;" alt="E-Commerce Platform" />
+    <h3 align="center">E-Commerce app</h3>
+    <img src="https://res.cloudinary.com/doa84txts/image/upload/v1730537235/Screenshot_2024-11-02_151418_fg4nxo.png" style="width: 100%; border-radius: 6px;" alt="E-Commerce Platform" />
     <p><strong>A full-stack e-commerce solution with real-time inventory management.</strong></p>
     <p><strong>Tech Stack:</strong> React, Node.js, Express, Prisma, PostgreSQL, Tailwind CSS</p>
     <div align="center">
@@ -57,20 +57,20 @@
   </div>
 
   <div style="width: 45%; min-width: 300px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
-    <h3 align="center">Fitness Tracker App</h3>
-    <img src="https://via.placeholder.com/400x200?text=Fitness+Tracker+App" style="width: 100%; border-radius: 6px;" alt="Fitness Tracker App" />
+    <h3 align="center">Hostipal booking app</h3>
+    <img src="https://res.cloudinary.com/doa84txts/image/upload/v1730537259/Screenshot_2024-11-02_151515_cfgriu.png" style="width: 100%; border-radius: 6px;" alt="Fitness Tracker App" />
     <p><strong>A cross-platform mobile app for tracking workouts and nutrition.</strong></p>
     <p><strong>Tech Stack:</strong> React Native, TypeScript, Node.js, Express, MySQL</p>
     <div align="center">
-      <a href="https://github.com/yourusername/fitness-tracker-app" target="_blank">
+      <a href="https://shopping-card-theta-inky.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/-View_Project-181717?style=for-the-badge&logo=github" alt="View Project" />
       </a>
     </div>
   </div>
 
   <div style="width: 45%; min-width: 300px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
-    <h3 align="center">Blog CMS</h3>
-    <img src="https://via.placeholder.com/400x200?text=Blog+CMS" style="width: 100%; border-radius: 6px;" alt="Blog CMS" />
+    <h3 align="center">Mobile Shopping app</h3>
+    <img src="https://res.cloudinary.com/doa84txts/image/upload/w_400,h_800/v1730626079/Screenshot_2024-11-03_155355_hxtw6e.png" style="width: 100%; border-radius: 6px;" alt="Blog CMS" />
     <p><strong>A modern, SEO-friendly blog content management system.</strong></p>
     <p><strong>Tech Stack:</strong> Next.js, TypeScript, Tailwind CSS, Prisma, PostgreSQL</p>
     <div align="center">
@@ -82,7 +82,7 @@
 
   <div style="width: 45%; min-width: 300px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
     <h3 align="center">Task Management Dashboard</h3>
-    <img src="https://via.placeholder.com/400x200?text=Task+Management+Dashboard" style="width: 100%; border-radius: 6px;" alt="Task Management Dashboard" />
+    <img src="https://res.cloudinary.com/doa84txts/image/upload/v1730537951/Screenshot_2024-11-02_152836_y569wp.png" style="width: 100%; border-radius: 6px;" alt="Task Management Dashboard" />
     <p><strong>A real-time collaborative task management tool for teams.</strong></p>
     <p><strong>Tech Stack:</strong> React, Node.js, Express, Socket.io, MySQL</p>
     <div align="center">
