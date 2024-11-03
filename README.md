@@ -16,6 +16,91 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- Replace placeholders with your actual information -->
+
+<h1 align="center">Hi 👋, I'm Thant Naing</h1>
+<h3 align="center">A passionate React developer with 2 years of experience</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/your-username?tab=followers">
+    <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=social" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/your-username?tab=repositories">
+    <img src="https://img.shields.io/github/stars/your-username?label=Stars&style=social" alt="GitHub Stars"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin/" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-%23333?style=flat-square&logo=gmail&logoColor=white&link=mailto:your-email@example.com"/></a>
+</p>
+
+---
+
+<h2 align="center">About Me</h2>
+<p align="center">
+  I'm a React developer with expertise in creating responsive web applications and a strong understanding of backend technologies such as Node.js, Express, and Prisma.
+</p>
+
+<ul align="center" style="list-style: none;">
+  <li>🔭 I’m currently working on <strong>React Native projects</strong></li>
+  <li>🌱 I’m learning <strong>advanced backend integrations</strong></li>
+  <li>📄 Know about my experiences on my <a href="https://github.com/your-username">GitHub</a></li>
+  <li>⚡ Fun fact: I'm a fan of creating interactive UIs!</li>
+</ul>
+
+---
+
+<h2 align="center">Skills</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+</p>
+
+---
+
+<h2 align="center">Projects</h2>
+<div align="center">
+  <!-- Add your projects here -->
+  <a href="https://github.com/your-username/your-project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-project-1" alt="Project 1" />
+  </a>
+  <a href="https://github.com/your-username/your-project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-project-2" alt="Project 2" />
+  </a>
+</div>
+
+---
+
+<h2 align="center">GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&locale=en" alt="your-username" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&" alt="your-username" />
+</p>
+
+---
+
+<h2 align="center">Connect with me</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin" target="blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@example.com" target="blank">
+    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+
 
 ## My Projects
 
