@@ -81,13 +81,13 @@
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Fitness Tracker App</h3>
+      <h3 align="center">Blogs app</h3>
       <div align="center">
         <a href="https://github.com/yourusername/fitness-tracker-app" target="_blank">
-          <img src="https://via.placeholder.com/300x200?text=Fitness+Tracker+App" width="300" height="600" alt="Fitness Tracker App" />
+          <img src="https://res.cloudinary.com/doa84txts/image/upload/v1730537951/Screenshot_2024-11-02_152836_y569wp.png" width="300" height="600" alt="Fitness Tracker App" />
         </a>
-        <p><strong>A cross-platform mobile app for tracking workouts and nutrition.</strong></p>
-        <p><strong>Tech Stack:</strong> React Native, TypeScript, Node.js, Express, MySQL</p>
+        <p><strong> Blogs site with react-typescript and backend nodejs-express-prisma . login/logout  , register user, darkmode ,lightmmode,responsive,create blogs and search blogs.</strong></p>
+        <p><strong>Tech Stack:</strong> react shadcnui tailwildcss nodejs express prisma cloudinary</p>
       </div>
     </td>
   </tr>
