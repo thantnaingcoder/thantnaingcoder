@@ -68,6 +68,18 @@
     </div>
   </div>
 
+   <div style="width: 45%; min-width: 300px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
+    <h3 align="center">Task Management Dashboard</h3>
+    <img src="https://res.cloudinary.com/doa84txts/image/upload/v1730537951/Screenshot_2024-11-02_152836_y569wp.png" style="width: 100%; border-radius: 6px;" alt="Task Management Dashboard" />
+    <p><strong>A real-time collaborative task management tool for teams.</strong></p>
+    <p><strong>Tech Stack:</strong> React, Node.js, Express, Socket.io, MySQL</p>
+    <div align="center">
+      <a href="https://github.com/yourusername/task-dashboard" target="_blank">
+        <img src="https://img.shields.io/badge/-View_Project-181717?style=for-the-badge&logo=github" alt="Demo Project" />
+      </a>
+    </div>
+  </div>
+
   <div style="width: 45%; min-width: 300px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 16px; margin="auto">
     <h3 align="center">Mobile Shopping app</h3>
     <img src="https://res.cloudinary.com/doa84txts/image/upload/w_400,h_800/v1730626079/Screenshot_2024-11-03_155355_hxtw6e.png" style="width: 50%; border-radius: 6px;" alt="Blog CMS" />
@@ -80,17 +92,7 @@
     </div>
   </div>
 
-  <div style="width: 45%; min-width: 300px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
-    <h3 align="center">Task Management Dashboard</h3>
-    <img src="https://res.cloudinary.com/doa84txts/image/upload/v1730537951/Screenshot_2024-11-02_152836_y569wp.png" style="width: 100%; border-radius: 6px;" alt="Task Management Dashboard" />
-    <p><strong>A real-time collaborative task management tool for teams.</strong></p>
-    <p><strong>Tech Stack:</strong> React, Node.js, Express, Socket.io, MySQL</p>
-    <div align="center">
-      <a href="https://github.com/yourusername/task-dashboard" target="_blank">
-        <img src="https://img.shields.io/badge/-View_Project-181717?style=for-the-badge&logo=github" alt="Demo Project" />
-      </a>
-    </div>
-  </div>
+ 
 </div>
 
 <div align="center">
