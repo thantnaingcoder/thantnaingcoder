@@ -1,107 +1,132 @@
-<div align="center">
+
+<div  align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" height="300" />
   
-  <h1>🚀 Welcome to [Your Name]'s Cosmic Code Hub 🌌</h1>
+  <h1>👋 Welcome to [Your Name]'s Dev Universe 🌟</h1>
   
   <p>
     <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
     <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-    <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+    <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   </p>
 </div>
 
 <div align="center">
-  <h2>👨‍🚀 Mission Control: About Me</h2>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Space+Explorer;5+Years+of+Coding+Voyages;Always+Discovering+New+Tech+Planets&font=Fira%20Code&center=true&width=380&height=50">
+  <h2>🚀 Full-Stack Developer | Mobile App Enthusiast | Database Wizard</h2>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Mastering+the+MERN+Stack;Building+Responsive+Web+Apps;Crafting+Mobile+Experiences;Always+Learning+New+Tech&font=Fira%20Code&center=true&width=380&height=50">
 </div>
 
 <p align="center">
-  Greetings, fellow code astronaut! I'm [Your Name], a passionate developer on a mission to explore the vast universe of technology. With my trusty keyboard as my spaceship, I navigate through complex algorithms, craft elegant UIs, and build robust backends. My goal? To leave a trail of innovative solutions across the digital galaxy!
+  Hey there! I'm [Your Name], a passionate full-stack developer with a love for creating seamless web and mobile experiences. From pixel-perfect frontends to robust backends, I enjoy tackling challenges across the entire development spectrum. My mission? To build applications that not only work flawlessly but also delight users at every interaction.
 </p>
 
 <div align="center">
-  <h2>🛠️ Cosmic Toolkit</h2>
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100" />
+  <h2>🛠️ Tech Stack</h2>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" />
 </div>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 <div align="center">
-  <h2>🌟 Stellar Projects</h2>
+  <h2>🌟 Featured Projects</h2>
 </div>
 
 <table align="center">
   <tr>
     <td width="50%">
-      <h3 align="center">Project Nebula</h3>
+      <h3 align="center">E-Commerce Platform</h3>
       <div align="center">  
-        <a href="https://github.com/yourusername/project-nebula" target="_blank">
-          <img src="https://via.placeholder.com/300x200?text=Project+Nebula" width="300" alt="Project Nebula" />
+        <a href="https://github.com/yourusername/ecommerce-platform" target="_blank">
+          <img src="https://via.placeholder.com/300x200?text=E-Commerce+Platform" width="300" alt="E-Commerce Platform" />
         </a>
-        <p><strong>A revolutionary cloud management system that simplifies complex infrastructures.</strong></p>
-        <p><strong>Tech Stack:</strong> React, Node.js, Docker, AWS</p>
+        <p><strong>A full-stack e-commerce solution with real-time inventory management.</strong></p>
+        <p><strong>Tech Stack:</strong> React, Node.js, Express, Prisma, PostgreSQL, Tailwind CSS</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Quantum Quill</h3>
+      <h3 align="center">Fitness Tracker App</h3>
       <div align="center">
-        <a href="https://github.com/yourusername/quantum-quill" target="_blank">
-          <img src="https://via.placeholder.com/300x200?text=Quantum+Quill" width="300" alt="Quantum Quill" />
+        <a href="https://github.com/yourusername/fitness-tracker-app" target="_blank">
+          <img src="https://via.placeholder.com/300x200?text=Fitness+Tracker+App" width="300" alt="Fitness Tracker App" />
         </a>
-        <p><strong>An AI-powered writing assistant that helps create out-of-this-world content.</strong></p>
-        <p><strong>Tech Stack:</strong> Python, TensorFlow, Flask, React</p>
+        <p><strong>A cross-platform mobile app for tracking workouts and nutrition.</strong></p>
+        <p><strong>Tech Stack:</strong> React Native, TypeScript, Node.js, Express, MySQL</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Blog CMS</h3>
+      <div align="center">
+        <a href="https://github.com/yourusername/blog-cms" target="_blank">
+          <img src="https://via.placeholder.com/300x200?text=Blog+CMS" width="300" alt="Blog CMS" />
+        </a>
+        <p><strong>A modern, SEO-friendly blog content management system.</strong></p>
+        <p><strong>Tech Stack:</strong> Next.js, TypeScript, Tailwind CSS, Prisma, PostgreSQL</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Task Management Dashboard</h3>
+      <div align="center">
+        <a href="https://github.com/yourusername/task-dashboard" target="_blank">
+          <img src="https://via.placeholder.com/300x200?text=Task+Management+Dashboard" width="300" alt="Task Management Dashboard" />
+        </a>
+        <p><strong>A real-time collaborative task management tool for teams.</strong></p>
+        <p><strong>Tech Stack:</strong> React, Node.js, Express, Socket.io, MySQL</p>
       </div>
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <h2>📊 Intergalactic Contributions</h2>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
+  <h2>📊 GitHub Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <h2>🏆 Cosmic Achievements</h2>
+  <h2>💡 A Little More About Me</h2>
   <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&margin-w=15&column=4" />
+    🌱 I'm currently learning GraphQL and exploring serverless architectures<br>
+    👯 I'm looking to collaborate on open-source React and Node.js projects<br>
+    💬 Ask me about full-stack development, mobile app design, or database optimization<br>
+    ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
   </p>
 </div>
 
 <div align="center">
-  <h2>🌠 Fun Facts</h2>
+  <h2>🤝 Let's Connect!</h2>
   <p>
-    🎸 When I'm not coding, I'm shredding on my electric guitar<br>
-    🍳 I make a mean space pancake (with real moon dust!)<br>
-    📚 Currently reading: "The Hitchhiker's Guide to the Software Galaxy"<br>
-    🎯 2023 Goal: Contribute to 50 open-source projects
-  </p>
-</div>
-
-<div align="center">
-  <h2>📡 Let's Connect Across the Cosmos</h2>
-  <p>
-    Whether you want to discuss the latest tech trends, collaborate on a project, or just share your favorite sci-fi theories, I'm always excited to connect with fellow cosmic coders!
+    I'm always excited to meet fellow developers, collaborate on interesting projects, or just chat about the latest in tech. Feel free to reach out!
   </p>
   <p>
     <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
     <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"/></a>
+    <a href="https://stackoverflow.com/users/youruserid"><img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
   </p>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views" />
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" />
-  <p>"The code is strong with this one." - Darth Vader, probably</p>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" />
+  <p>"First, solve the problem. Then, write the code." - John Johnson</p>
 </div>
 
 
