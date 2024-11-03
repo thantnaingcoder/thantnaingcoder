@@ -16,11 +16,11 @@
 </div>
 
 <p align="center">
-  Hello, fellow code enthusiasts! I'm [Your Name], a passionate full-stack developer with a knack for creating seamless digital experiences. From responsive web apps to intuitive mobile interfaces, I thrive on turning complex problems into elegant solutions. My goal? To build software that not only meets requirements but exceeds expectations and brings joy to users.
+  Hello, fellow code enthusiasts! I'm Thant Naing, a passionate full-stack developer with a knack for creating seamless digital experiences. From responsive web apps to intuitive mobile interfaces, I thrive on turning complex problems into elegant solutions. My goal? To build software that not only meets requirements but exceeds expectations and brings joy to users.
 </p>
 
 <div align="center">
-  <h2>💻 Tech Arsenal</h2>
+  <h2>💻 Tech Stack</h2>
 </div>
 
 <p align="center">
@@ -50,8 +50,8 @@
     <p><strong>A full-stack e-commerce solution with real-time inventory management.</strong></p>
     <p><strong>Tech Stack:</strong> React, Node.js, Express, Prisma, PostgreSQL, Tailwind CSS</p>
     <div align="center">
-      <a href="https://github.com/yourusername/ecommerce-platform" target="_blank">
-        <img src="https://img.shields.io/badge/-View_Project-181717?style=for-the-badge&logo=github" alt="View Project" />
+      <a href="https://shopping-card-theta-inky.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/-View_Project-181717?style=for-the-badge&logo=github" alt="Demo Project" />
       </a>
     </div>
   </div>
@@ -62,8 +62,8 @@
     <p><strong>A cross-platform mobile app for tracking workouts and nutrition.</strong></p>
     <p><strong>Tech Stack:</strong> React Native, TypeScript, Node.js, Express, MySQL</p>
     <div align="center">
-      <a href="https://shopping-card-theta-inky.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/-View_Project-181717?style=for-the-badge&logo=github" alt="View Project" />
+      <a href="https://react-project-no-2.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/-View_Project-181717?style=for-the-badge&logo=github" alt="Demo Project" />
       </a>
     </div>
   </div>
@@ -74,8 +74,8 @@
     <p><strong>A modern, SEO-friendly blog content management system.</strong></p>
     <p><strong>Tech Stack:</strong> Next.js, TypeScript, Tailwind CSS, Prisma, PostgreSQL</p>
     <div align="center">
-      <a href="https://github.com/yourusername/blog-cms" target="_blank">
-        <img src="https://img.shields.io/badge/-View_Project-181717?style=for-the-badge&logo=github" alt="View Project" />
+      <a href="https://expo.dev/artifacts/eas/o55c8qmFXQ4Xp5kQuc3HU.apk" target="_blank">
+        <img src="https://img.shields.io/badge/-View_Project-181717?style=for-the-badge&logo=github" alt="Download apk" />
       </a>
     </div>
   </div>
@@ -87,7 +87,7 @@
     <p><strong>Tech Stack:</strong> React, Node.js, Express, Socket.io, MySQL</p>
     <div align="center">
       <a href="https://github.com/yourusername/task-dashboard" target="_blank">
-        <img src="https://img.shields.io/badge/-View_Project-181717?style=for-the-badge&logo=github" alt="View Project" />
+        <img src="https://img.shields.io/badge/-View_Project-181717?style=for-the-badge&logo=github" alt="Demo Project" />
       </a>
     </div>
   </div>
