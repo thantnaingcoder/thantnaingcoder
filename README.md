@@ -53,31 +53,31 @@
         <a href="https://shopping-card-theta-inky.vercel.app/" target="_blank">
           <img src="https://res.cloudinary.com/doa84txts/image/upload/v1730537235/Screenshot_2024-11-02_151418_fg4nxo.png" width="300" alt="E-Commerce Platform" />
         </a>
-        <p><strong>A full-stack e-commerce solution with real-time inventory management.</strong></p>
-        <p><strong>Tech Stack:</strong> React, Node.js, Express, Prisma, PostgreSQL, Tailwind CSS</p>
+        <p><strong> e-commerce project ,addto card and respinsive.</strong></p>
+        <p><strong>Tech Stack:</strong> React, Tailwind CSS</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Fitness Tracker App</h3>
+      <h3 align="center">Hospital booking</h3>
       <div align="center">
-        <a href="https://github.com/yourusername/fitness-tracker-app" target="_blank">
-          <img src="https://via.placeholder.com/300x200?text=Fitness+Tracker+App" width="300" alt="Fitness Tracker App" />
+        <a href="https://react-project-no-2.vercel.app/" target="_blank">
+          <img src="https://res.cloudinary.com/doa84txts/image/upload/v1730537259/Screenshot_2024-11-02_151515_cfgriu.png" width="300" alt="Fitness Tracker App" />
         </a>
-        <p><strong>A cross-platform mobile app for tracking workouts and nutrition.</strong></p>
-        <p><strong>Tech Stack:</strong> React Native, TypeScript, Node.js, Express, MySQL</p>
+        <p><strong>Hostipal booking project , responsive</strong></p>
+        <p><strong>Tech Stack:</strong> React ,shadcn ui , tailwildcss</p>
       </div>
     </td>
   </tr>
 
    <tr>
     <td width="50%">
-      <h3 align="center">E-Commerce </h3>
+      <h3 align="center">Shopping app </h3>
       <div align="center">  
-        <a href="https://shopping-card-theta-inky.vercel.app/" target="_blank">
-          <img src="https://res.cloudinary.com/doa84txts/image/upload/v1730537235/Screenshot_2024-11-02_151418_fg4nxo.png" width="300" alt="E-Commerce Platform" />
+        <a href="https://expo.dev/artifacts/eas/fNGKnjNzGSVqars3bu6z7n.apk" target="_blank">
+          <img src="https://res.cloudinary.com/doa84txts/image/upload/w_400,h_800/v1730626079/Screenshot_2024-11-03_155355_hxtw6e.png" width="300" alt="E-Commerce Platform" />
         </a>
-        <p><strong>A full-stack e-commerce solution with real-time inventory management.</strong></p>
-        <p><strong>Tech Stack:</strong> React, Node.js, Express, Prisma, PostgreSQL, Tailwind CSS</p>
+        <p><strong>Shopping app with react-native</strong></p>
+        <p><strong>Tech Stack:</strong> React-native , Tailwind CSS</p>
       </div>
     </td>
     <td width="50%">
