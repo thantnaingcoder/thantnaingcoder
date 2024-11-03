@@ -62,6 +62,7 @@
     <img src="https://res.cloudinary.com/doa84txts/image/upload/v1730537259/Screenshot_2024-11-02_151515_cfgriu.png" style="width: 100%; border-radius: 6px;" alt="Fitness Tracker App" />
     <p><strong>hostipal booking app with sample ui , responsive and slider.</strong></p>
     <p><strong>Tech Stack:</strong> React ,shadcn ,tailwild</p>
+    <p><strong>Demo project:</strong> <a href="https://react-project-no-2.vercel.app/"> link </a></p>
     <div align="center">
       <a href="https://react-project-no-2.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/-View_Project-181717?style=for-the-badge&logo=github" alt="Demo Project" />
@@ -74,6 +75,7 @@
     <img src="https://res.cloudinary.com/doa84txts/image/upload/v1730537951/Screenshot_2024-11-02_152836_y569wp.png" style="width: 100%; border-radius: 6px;" alt="Task Management Dashboard" />
     <p><strong>Blogs create , search , pagination ,responsive.</strong></p>
     <p><strong>Tech Stack:</strong> React, Node.js, Express, prisma</p>
+     <p><strong>Demo project:</strong> <a href="#"> link </a></p>
     <div align="center">
       <a href="https://github.com/yourusername/task-dashboard" target="_blank">
         <img src="https://img.shields.io/badge/-View_Project-181717?style=for-the-badge&logo=github" alt="Demo Project" />
@@ -86,6 +88,7 @@
     <img src="https://res.cloudinary.com/doa84txts/image/upload/w_400,h_800/v1730626079/Screenshot_2024-11-03_155355_hxtw6e.png" style="width: 50%; border-radius: 6px;" alt="Blog CMS" />
     <p><strong>A modern, SEO-friendly blog content management system.</strong></p>
     <p><strong>Tech Stack:</strong> React-native ,tailwild</p>
+    <p><strong>Demo apk (android):</strong> <a href="https://expo.dev/artifacts/eas/o55c8qmFXQ4Xp5kQuc3HU.apk"> link </a></p>
     <div align="center">
       <a href="https://expo.dev/artifacts/eas/o55c8qmFXQ4Xp5kQuc3HU.apk" target="_blank">
         <img src="https://img.shields.io/badge/-View_Project-181717?style=for-the-badge&logo=link" alt="Download apk" />
