@@ -11,12 +11,12 @@
 </div>
 
 <div align="center">
-  <h2>🛠️ Full-Stack Maestro | Mobile App Architect | Database Virtuoso</h2>
+  <h2>🛠️ Full-Stack with javascript</h2>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Crafting+Web+and+Mobile+Experiences;Building+with+MERN+Stack;Optimizing+Databases;Always+Exploring+New+Tech&font=Fira%20Code&center=true&width=380&height=50">
 </div>
 
 <p align="center">
-  Hello, fellow code enthusiasts! I'm Thant Naing, a passionate full-stack developer with a knack for creating seamless digital experiences. From responsive web apps to intuitive mobile interfaces, I thrive on turning complex problems into elegant solutions. My goal? To build software that not only meets requirements but exceeds expectations and brings joy to users.
+  Hello! I'm Thant Naing, a JavaScript developer with a passion for crafting both static and dynamic web applications. With around 2 years of experience, I’m a fast learner who thrives on adapting to new challenges and technologies. I aim to deliver efficient, user-friendly web solutions that bring ideas to life through code.
 </p>
 
 <div align="center">
