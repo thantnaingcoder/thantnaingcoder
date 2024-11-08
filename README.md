@@ -129,7 +129,7 @@
     Whether you're looking to collaborate on a project, discuss the latest tech trends, or just chat about the art of coding, I'm always eager to connect with fellow developers and tech enthusiasts!
   </p>
   <p>
-    <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzDQzCdmmdLchsrwjQtwnNQgVVXMBJKddxhxcQTBPnrTVlLqHVPJvSJcrBrqZGWpzJWnsWV"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+    <a href="mailto:lester6586@gmail.com"/></a>
     <a href="#"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"/></a>
     
   </p>
