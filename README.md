@@ -105,11 +105,7 @@
     <p><strong>Mobile shopping app with react native ,addtocard,delecard ,subtotal</strong></p>
     <p><strong>Tech Stack:</strong> React-native ,tailwild</p>
     <strong>Demo apk (android):  <a href="https://expo.dev/artifacts/eas/fNGKnjNzGSVqars3bu6z7n.apk"  > https://expo.dev/artifacts/eas/fNGKnjNzGSVqars3bu6z7n.apk </a></strong> 
-    <div align="center">
-      <a href="https://expo.dev/artifacts/eas/fNGKnjNzGSVqars3bu6z7n.apk" target="_blank" >
-        <img src="https://img.shields.io/badge/-View_Project-181717?style=for-the-badge&logo=link" alt="Download apk" />
-      </a>
-    </div>
+   
   </div>
 
  
