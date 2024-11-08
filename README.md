@@ -115,11 +115,7 @@
  
 </div>
 
-<div align="center">
-  <h2>📊 GitHub Analytics</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
-</div>
+
 
 <div align="center">
   <h2>🌱 Always Growing</h2>
