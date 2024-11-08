@@ -116,11 +116,10 @@
 <div align="center">
   <h2>🌱 Always Growing</h2>
   <p>
-    🔭 I'm currently working on a serverless architecture project<br>
-    🌟 Exploring GraphQL and Apollo for efficient data fetching<br>
     👯 Looking to collaborate on open-source React and Node.js projects<br>
-    💬 Ask me about full-stack development, mobile app design, or database optimization<br>
-    ⚡ Fun fact: I can type over 100 words per minute!
+    
+    
+    
   </p>
 </div>
 
