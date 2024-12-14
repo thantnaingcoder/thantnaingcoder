@@ -58,6 +58,19 @@
     </div>
   </div>
 
+  <div style="width: 45%; min-width: 300px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
+    <h3 align="center">MMS IT Team collaboration App </h3>
+    <img src="https://res.cloudinary.com/doa84txts/image/upload/v1734165939/Screenshot_2024-12-14_151422_y2hkix.png" style="width: 100%; border-radius: 6px;" alt="E-Commerce Platform" />
+    <p><strong> Team collaboration app with simple ui and responseve  </strong></p>
+    <p><strong>Tech Stack:</strong> React, Typescript ,  Tailwind CSS</p>
+    <p><strong>Demo project:</strong> <a href="https://pathwayacademymcf2.vercel.app/" target="_blank"> link </a></p>
+    <div align="center">
+      <a href="https://pathwayacademymcf2.vercel.app/" target="blank">
+        <img src="https://img.shields.io/badge/-View_Project-181717?style=for-the-badge&logo=github" alt="Demo Project" />
+      </a>
+    </div>
+  </div>
+
    <div style="width: 45%; min-width: 300px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
     <h3 align="center">Hostipal booking app</h3>
     <img src="https://res.cloudinary.com/doa84txts/image/upload/v1730537259/Screenshot_2024-11-02_151515_cfgriu.png" style="width: 100%; border-radius: 6px;" alt="Fitness Tracker App" />
