@@ -62,10 +62,10 @@
     <h3 align="center">MMS IT Team collaboration App </h3>
     <img src="https://res.cloudinary.com/doa84txts/image/upload/v1734165939/Screenshot_2024-12-14_151422_y2hkix.png" style="width: 100%; border-radius: 6px;" alt="E-Commerce Platform" />
     <p><strong> Team collaboration app with simple ui and responseve  </strong></p>
-    <p><strong>Tech Stack:</strong> React, Typescript ,  Tailwind CSS</p>
+    <p><strong>Tech Stack:</strong> React, shadcn-ui ,  Tailwind CSS</p>
     <p> Contributor   </p>
-    <p> sisaung </p>
-     <p> kyawgyi </p>
+    <a href="https://github.com/sisaung"> sisaung </a>
+     <a href="https://github.com/kyawgyi-2024"> kyawgyi </a>
     <p><strong>Demo project:</strong> <a href="https://pathwayacademymcf2.vercel.app/" target="_blank"> link </a></p>
     <div align="center">
       <a href="https://pathwayacademymcf2.vercel.app/" target="blank">
