@@ -59,7 +59,7 @@
   </div>
 
   <div style="width: 45%; min-width: 300px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
-    <h3 align="center">MMS IT Team collaboration App </h3>
+    <h3 align="center">MMS IT Connection Team 2 (MCF-2) collaboration App </h3>
     <img src="https://res.cloudinary.com/doa84txts/image/upload/v1734165939/Screenshot_2024-12-14_151422_y2hkix.png" style="width: 100%; border-radius: 6px;" alt="E-Commerce Platform" />
     <p><strong> Team collaboration app with simple ui and responseve  </strong></p>
     <p><strong>Tech Stack:</strong> React, shadcn-ui ,  Tailwind CSS</p>
