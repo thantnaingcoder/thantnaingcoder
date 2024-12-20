@@ -105,9 +105,9 @@
     <img src="https://res.cloudinary.com/doa84txts/image/upload/v1730537235/Screenshot_2024-11-02_151418_fg4nxo.png" style="width: 100%; border-radius: 6px;" alt="E-Commerce Platform" />
     <p><strong> E-commerce app with simple ui and responseve , addtocard ,dele card ,sub total </strong></p>
     <p><strong>Tech Stack:</strong> React,  Tailwind CSS</p>
-    <p><strong>Demo project:</strong> <a href="https://shopping-card-theta-inky.vercel.app/" target="_blank"> link </a></p>
+    <p><strong>Demo project:</strong> <a href="https://romofy.netlify.app/" target="_blank"> link </a></p>
     <div align="center">
-      <a href="https://shopping-card-theta-inky.vercel.app/" target="_blank">
+      <a href="https://romofy.netlify.app/" target="_blank">
         <img src="https://img.shields.io/badge/-View_Project-181717?style=for-the-badge&logo=github" alt="Demo Project" />
       </a>
     </div>
