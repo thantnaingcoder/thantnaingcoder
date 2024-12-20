@@ -52,7 +52,7 @@
     <p><strong>Tech Stack:</strong> React, Typescript ,  Tailwind CSS</p>
     <p><strong>Demo project:</strong> <a href="https://my-portfolio97-six.vercel.app/" target="_blank"> link </a></p>
     <div align="center">
-      <a href="https://my-portfolio97-six.vercel.app/" target="blank">
+      <a href="https://my-portfolio97-six.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/-View_Project-181717?style=for-the-badge&logo=github" alt="Demo Project" />
       </a>
     </div>
