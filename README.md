@@ -59,6 +59,19 @@
   </div>
 
   <div style="width: 45%; min-width: 300px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
+    <h3 align="center">MMS IT Connection Team 2 (MCF-2) collaboration App</h3>
+    <img src="https://res.cloudinary.com/doa84txts/image/upload/v1737356179/Screenshot_2025-01-20_132534_bdans3.png" style="width: 100%; border-radius: 6px;" alt="E-Commerce Platform" />
+    <p><strong>Team collaboration app with simple ui and responseve </strong></p>
+    <p><strong>Tech Stack:</strong> Nextjs, shadcn ,  Tailwind CSS</p>
+    <p><strong>Demo project:</strong> <a href="https://moana-mcf-2-mcp-1.vercel.app/" target="_blank"> link </a></p>
+    <div align="center">
+      <a href="https://moana-mcf-2-mcp-1.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/-View_Project-181717?style=for-the-badge&logo=github" alt="Demo Project" />
+      </a>
+    </div>
+  </div>
+
+  <div style="width: 45%; min-width: 300px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 16px;">
     <h3 align="center">E-Commerce app</h3>
     <img src="https://res.cloudinary.com/doa84txts/image/upload/v1731045135/Screenshot_2024-11-08_121935_jo5jpi.png" style="width: 100%; border-radius: 6px;" alt="E-Commerce Platform" />
     <p><strong> E-commerce app with simple ui and responseve  </strong></p>
